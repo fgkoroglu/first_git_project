@@ -15,8 +15,11 @@
 Note: git status --> this is our friend this can be used anytime to see the progress
 
 4.  Create a new SECOND COMMIT
-* Create a new class
-* Create a new Commit and push the code to github
-*git add .
-*git commit -m "added my second java class"
-git push
+    * Create a new class
+    * Create a new Commit and push the code to github
+    *git add .
+    *git commit -m "added my second java class"
+    *
+
+5. ADDING SPECIFIC FILES
+*Create 2 JAVA classes: MYThirdClass, MyFourthClass
