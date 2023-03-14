@@ -87,6 +87,14 @@ NOTE: PULL BEFORE PUSH
 
        ************************************ DAY 2 *************************************************
 Branching
+* git branch feyza
+* git branch -a
+* git checkout feyza --> to switch from main branch to feyza
+* git branch --> * to see if you are in the right branch
+*git checkout main --> to switch to main branch
+--> come to side branch feyza, open a class and put main method and sout
+--> now push this code to gitHub
+* git add .
 
 
 
