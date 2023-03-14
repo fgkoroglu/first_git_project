@@ -87,14 +87,33 @@ NOTE: PULL BEFORE PUSH
 
        ************************************ DAY 2 *************************************************
 Branching
+
+* git branch -a --> show me all branch
 * git branch feyza
-* git branch -a
 * git checkout feyza --> to switch from main branch to feyza
 * git branch --> * to see if you are in the right branch
-*git checkout main --> to switch to main branch
---> come to side branch feyza, open a class and put main method and sout
+* open a class and put main method and sout
 --> now push this code to gitHub
 * git add .
+* git commit -m "committing my 6th branch"
+* git push --set-upstream origin feyza --> copied from terminal
+* Then codes will be in the remote feyza branch
+---> now merge the code to master
+* Pull Request ---> means the code need to merged to master
+
+
+             ****One more side branch flow****
+
+*Create a class
+*create a new commit and push
+git add .
+git commit -m "message"
+git push
+Then new codes will bbe in remote feyza branch
+Then gitHub expert or us will do:
+Pull Request
+Then Code Review
+Then Code Merge
 
 
 
